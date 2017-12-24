@@ -1,0 +1,177 @@
+*****************Test One************************************
+
+7,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 1 of 24
+AI Player rolled a  4.
+Checked Constraint List and a move from 0 to 4 does not show on the list.
+AI Player is moved forward to block 4 of 24
+0,3,0,0,7,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  4.
+Human Player is moved forward to block 5 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 4 to 5 does not show on the list.
+AI Player is moved forward to block 5 of 24
+0,1,0,0,0,7,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 6 of 24
+AI Player rolled a  4.
+Checked Constraint List and a move from 4 to 8 does not show on the list.
+AI Player is moved forward to block 8 of 24
+0,1,0,0,0,0,3,0,7,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  4.
+Human Player is moved forward to block 10 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 8 to 9 does not show on the list.
+AI Player is moved forward to block 9 of 24
+0,1,0,0,0,0,5,0,0,7,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 11 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 9 to 10 does not show on the list.
+AI Player is moved forward to block 10 of 24
+0,1,0,0,0,0,5,0,0,0,7,3,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  4.
+Human Player is moved forward to block 15 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 10 to 11 does not show on the list.
+AI Player is moved forward to block 11 of 24
+0,1,0,0,0,0,5,0,0,0,0,7,5,0,0,3,0,0,5,0,0,0,0,9,9
+Human Player rolled a  4.
+Human Player is moved forward to block 19 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 11 to 13 does not show on the list.
+AI Player is moved forward to block 13 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,7,0,0,0,0,5,3,0,0,0,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 21 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 13 to 14 does not show on the list.
+AI Player is moved forward to block 14 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,7,0,0,0,5,0,0,3,0,9,9
+Human Player rolled a  4.
+Human Player wins the contest on the 9 move.
+Human Player is moved forward to block 25 of 24
+
+
+***********************Test Two**********************************************
+7,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 1 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 0 to 2 does not show on the list.
+AI Player is moved forward to block 2 of 24
+0,3,7,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 3 of 24
+AI Player rolled a  4.
+Checked Constraint List and a move from 2 to 6 does not show on the list.
+AI Player is moved forward to block 6 of 24
+0,3,0,0,0,0,7,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  4.
+Human Player is moved forward to block 5 of 24
+AI Player rolled a  3.
+Checked Constraint List and a move from 6 to 9 does not show on the list.
+AI Player is moved forward to block 9 of 24
+0,1,0,0,0,3,5,0,0,7,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 6 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 8 to 10 does not show on the list.
+AI Player is moved forward to block 10 of 24
+0,1,0,0,0,0,3,0,0,0,7,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 8 of 24
+AI Player rolled a  3.
+Checked Constraint List and a move from 10 to 13 does not show on the list.
+AI Player is moved forward to block 13 of 24
+0,1,0,0,0,0,5,0,3,0,0,0,5,7,0,0,0,0,5,0,0,0,0,9,9
+Human Player rolled a  3.
+Human Player is moved forward to block 11 of 24
+AI Player rolled a  3.
+Checked Constraint List and a move from 13 to 16 does not show on the list.
+AI Player is moved forward to block 16 of 24
+0,1,0,0,0,0,5,0,0,0,0,3,5,0,0,0,7,0,5,0,0,0,0,9,9
+Human Player rolled a  3.
+Human Player is moved forward to block 14 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 16 to 17 does not show on the list.
+AI Player is moved forward to block 17 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,3,0,0,7,5,0,0,0,0,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 15 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 17 to 19 does not show on the list.
+AI Player is moved forward to block 19 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,3,0,0,5,7,0,0,0,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 17 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 19 to 21 does not show on the list.
+AI Player is moved forward to block 21 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,3,5,0,0,7,0,9,9
+Human Player rolled a  3.
+Human Player is moved forward to block 20 of 24
+AI Player rolled a  3.
+Checked Constraint List and a move from 21 to 24 does show on the list.
+Human Player is moved back to block 17 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,3,5,0,0,7,0,9,9
+Human Player rolled a  3.
+Human Player is moved forward to block 20 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 21 to 23 does show on the list.
+Human Player is moved back to block 18 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,3,0,0,7,0,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 20 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 21 to 23 does show on the list.
+Human Player is moved back to block 18 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,3,0,0,7,0,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 20 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 21 to 22 does not show on the list.
+AI Player is moved forward to block 22 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,3,0,7,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 21 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 22 to 23 does show on the list.
+Human Player is moved back to block 20 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,3,0,7,9,9
+Human Player rolled a  3.
+Human Player is moved forward to block 1 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 22 to 23 does show on the list.
+Human Player is moved back to block 1 of 24
+0,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 2 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 22 to 23 does show on the list.
+Human Player is moved back to block 1 of 24
+0,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player rolled a  4.
+Human Player is moved forward to block 5 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 22 to 23 does show on the list.
+Human Player is moved back to block 4 of 24
+0,1,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 6 of 24
+AI Player rolled a  2.
+Checked Constraint List and a move from 20 to 22 does not show on the list.
+AI Player is moved forward to block 22 of 24
+0,1,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player rolled a  2.
+Human Player is moved forward to block 8 of 24
+AI Player rolled a  1.
+Checked Constraint List and a move from 22 to 23 does show on the list.
+Human Player is moved back to block 7 of 24
+0,1,0,0,0,0,5,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player rolled a  1.
+Human Player is moved forward to block 8 of 24
+AI Player rolled a  4.
+Checked Constraint List and a move from 22 to 26 does not show on the list.
+AI Player wins the contest on the 20 move.

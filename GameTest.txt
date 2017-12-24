@@ -1,0 +1,253 @@
+*****************Test One***************
+
+7,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 4 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  3.
+AI Player is moved forward to block 3 of 24
+0,1,0,7,3,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  1.
+AI Player is moved forward to block 4 of 24
+0,1,0,0,7,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 6 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  1.
+AI Player is moved forward to block 4 of 24
+0,1,0,0,7,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 7 of 24
+Computer Take Player Take Value: -3
+Computer Take Player Give Value: -3
+Computer Give Player Take Value: -3
+Computer Give Player Give Value: -3
+AI Player rolled a  4.
+AI Player is moved forward to block 8 of 24
+0,1,0,0,0,0,5,3,7,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  1.
+AI Player is moved forward to block 9 of 24
+0,1,0,0,0,0,5,0,0,7,0,3,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 12 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  2.
+AI Player is moved forward to block 10 of 24
+0,1,0,0,0,0,5,0,0,0,7,0,3,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 14 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  4.
+AI Player is moved forward to block 14 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,7,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 18 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  4.
+AI Player is moved forward to block 14 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,7,0,0,0,3,0,0,0,0,9,9
+Human Player is moved forward to block 22 of 24
+Computer Take Player Take Value: 0
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: 0
+Computer Give Player Give Value: -4
+AI Player rolled a  3.
+AI Player is moved forward to block 17 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,7,5,0,0,0,3,9,9
+Human Player wins the contest on the 10 move.
+Human Player is moved forward to block 26 of 24
+7,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 3 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  2.
+AI Player is moved forward to block 2 of 24
+0,1,7,3,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  3.
+AI Player is moved forward to block 5 of 24
+0,1,0,0,0,7,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  2.
+AI Player is moved forward to block 7 of 24
+0,1,0,0,0,0,5,7,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 10 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  3.
+AI Player is moved forward to block 10 of 24
+0,1,0,0,0,0,5,0,0,0,7,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  3.
+AI Player is moved forward to block 13 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,7,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 17 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  2.
+AI Player is moved forward to block 15 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,7,0,3,5,0,0,0,0,9,9
+Human Player is moved forward to block 21 of 24
+Computer Take Player Take Value: -4
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: -4
+Computer Give Player Give Value: -4
+AI Player rolled a  3.
+AI Player is moved forward to block 18 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,7,0,0,0,0,9,9
+Human Player is moved forward to block 21 of 24
+Computer Take Player Take Value: 0
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: 0
+Computer Give Player Give Value: -4
+AI Player rolled a  1.
+AI Player is moved forward to block 19 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,7,0,3,0,9,9
+Human Player is moved forward to block 22 of 24
+Computer Take Player Take Value: 0
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: 0
+Computer Give Player Give Value: -4
+AI Player rolled a  1.
+AI Player is moved forward to block 20 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,7,0,3,9,9
+AI Player is moved back to block 19 of 24
+Computer Take Player Take Value: 0
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: 0
+Computer Give Player Give Value: -4
+AI Player rolled a  2.
+AI Player is moved forward to block 21 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,7,3,9,9
+AI Player is moved back to block 19 of 24
+Computer Take Player Take Value: 0
+Computer Take Player Give Value: -4
+Computer Give Player Take Value: 0
+Computer Give Player Give Value: -4
+AI Player rolled a  3.
+AI Player is moved forward to block 22 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player wins the contest on the 12 move.
+Human Player is moved forward to block 26 of 24
+
+**************Test Two********************
+
+
+7,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 1 of 24
+Computer Take Player Take Value: -3
+Computer Take Player Give Value: 0
+Computer Give Player Take Value: -3
+Computer Give Player Give Value: 0
+AI Player rolled a  2.
+AI Player is moved forward to block 2 of 24
+0,3,7,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 3 of 24
+Computer Take Player Take Value: -1
+Computer Take Player Give Value: -1
+Computer Give Player Take Value: -1
+Computer Give Player Give Value: -1
+AI Player rolled a  3.
+AI Player is moved forward to block 5 of 24
+0,1,0,3,0,7,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 4 of 24
+Computer Take Player Take Value: 4
+Computer Take Player Give Value: 4
+Computer Give Player Take Value: 4
+Computer Give Player Give Value: 4
+AI Player rolled a  4.
+AI Player is moved forward to block 9 of 24
+0,1,0,0,3,0,5,0,0,7,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Computer Take Player Take Value: 4
+Computer Take Player Give Value: 4
+Computer Give Player Take Value: 4
+Computer Give Player Give Value: 4
+AI Player rolled a  1.
+AI Player is moved forward to block 10 of 24
+0,1,0,0,0,3,5,0,0,0,7,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 6 of 24
+Computer Take Player Take Value: 4
+Computer Take Player Give Value: 4
+Computer Give Player Take Value: 4
+Computer Give Player Give Value: 4
+AI Player rolled a  3.
+AI Player is moved forward to block 12 of 24
+0,1,0,3,0,0,5,0,0,0,0,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 6 of 24
+Computer Take Player Take Value: 3
+Computer Take Player Give Value: 3
+Computer Give Player Take Value: 3
+Computer Give Player Give Value: 3
+AI Player rolled a  1.
+AI Player is moved forward to block 10 of 24
+0,1,0,0,0,0,3,0,0,0,7,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 7 of 24
+Computer Take Player Take Value: 4
+Computer Take Player Give Value: 4
+Computer Give Player Take Value: 4
+Computer Give Player Give Value: 4
+AI Player rolled a  4.
+AI Player is moved forward to block 14 of 24
+0,1,0,0,0,0,5,3,0,0,0,0,5,0,7,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Computer Take Player Take Value: 4
+Computer Take Player Give Value: 4
+Computer Give Player Take Value: 4
+Computer Give Player Give Value: 4
+AI Player rolled a  3.
+AI Player is moved forward to block 17 of 24
+0,1,0,0,0,0,5,0,0,0,0,3,5,0,0,0,0,7,5,0,0,0,0,9,9
+Human Player is moved forward to block 14 of 24
+Computer Take Player Take Value: 2
+Computer Take Player Give Value: 4
+Computer Give Player Take Value: 2
+Computer Give Player Give Value: 4
+AI Player rolled a  4.
+AI Player is moved forward to block 21 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,3,0,0,0,5,0,0,7,0,9,9
+Human Player is moved forward to block 15 of 24
+Computer Take Player Take Value: 4
+Computer Take Player Give Value: 4
+Computer Give Player Take Value: 4
+Computer Give Player Give Value: 4
+AI Player rolled a  4.
+AI Player wins the contest on the 10 move.
+AI Player is moved forward to block 25 of 24

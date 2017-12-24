@@ -1,0 +1,802 @@
+
+
+*****************Test One***********************
+
+7,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 4 of 24
+Parent Take Player Take Max Value: -4
+Parent Take Player Give Max Value: -3
+Parent Give Player Take Max Value: -4
+Parent Take Player Give Max Value: -2
+AI Player rolled a  1.
+Human Player is moved back to block 3 of 24
+7,1,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 7 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  2.
+Human Player is moved back to block 5 of 24
+7,1,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  3.
+Human Player is moved back to block 5 of 24
+7,1,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -7
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -5
+AI Player rolled a  2.
+Human Player is moved back to block 6 of 24
+7,1,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -7
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -5
+AI Player rolled a  2.
+Human Player is moved back to block 6 of 24
+7,1,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 10 of 24
+Parent Take Player Take Max Value: -7
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -5
+AI Player rolled a  4.
+Human Player is moved back to block 6 of 24
+7,1,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -7
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -5
+AI Player rolled a  2.
+Human Player is moved back to block 6 of 24
+7,1,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  3.
+Human Player is moved back to block 5 of 24
+7,1,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  3.
+Human Player is moved back to block 5 of 24
+7,1,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -8
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -8
+Parent Take Player Give Max Value: -6
+AI Player rolled a  1.
+Human Player is moved back to block 7 of 24
+7,1,0,0,0,0,5,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  4.
+Human Player is moved back to block 5 of 24
+7,1,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -7
+AI Player rolled a  1.
+Human Player is moved back to block 8 of 24
+7,1,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -7
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -5
+AI Player rolled a  3.
+Human Player is moved back to block 6 of 24
+7,1,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -7
+AI Player rolled a  1.
+Human Player is moved back to block 8 of 24
+7,1,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  4.
+Human Player is moved back to block 5 of 24
+7,1,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -7
+AI Player rolled a  1.
+Human Player is moved back to block 8 of 24
+7,1,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -7
+AI Player rolled a  1.
+Human Player is moved back to block 8 of 24
+7,1,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 12 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  3.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 12 of 24
+Parent Take Player Take Max Value: -8
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -8
+Parent Take Player Give Max Value: -7
+AI Player rolled a  4.
+Human Player is moved back to block 8 of 24
+0,7,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -5
+Parent Take Player Give Max Value: -5
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  4.
+Human Player is moved back to block 5 of 24
+0,7,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -6
+Parent Take Player Give Max Value: -5
+AI Player rolled a  3.
+Human Player is moved back to block 6 of 24
+0,7,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -8
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -8
+Parent Take Player Give Max Value: -7
+AI Player rolled a  1.
+Human Player is moved back to block 8 of 24
+0,7,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -5
+Parent Take Player Give Max Value: -5
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  4.
+Human Player is moved back to block 5 of 24
+0,7,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 7 of 24
+Parent Take Player Take Max Value: -5
+Parent Take Player Give Max Value: -5
+Parent Give Player Take Max Value: -5
+Parent Take Player Give Max Value: -4
+AI Player rolled a  2.
+Human Player is moved back to block 5 of 24
+0,7,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -7
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -6
+AI Player rolled a  2.
+Human Player is moved back to block 7 of 24
+0,7,0,0,0,0,5,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -6
+Parent Take Player Give Max Value: -5
+AI Player rolled a  3.
+Human Player is moved back to block 6 of 24
+0,7,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -6
+Parent Take Player Give Max Value: -5
+AI Player rolled a  3.
+Human Player is moved back to block 6 of 24
+0,7,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 9 of 24
+Parent Take Player Take Max Value: -7
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -6
+AI Player rolled a  2.
+Human Player is moved back to block 7 of 24
+0,7,0,0,0,0,5,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -12
+Parent Take Player Give Max Value: -12
+Parent Give Player Take Max Value: -12
+Parent Take Player Give Max Value: -11
+AI Player rolled a  1.
+Human Player is moved back to block 12 of 24
+0,7,0,0,0,0,5,0,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -10
+Parent Give Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+AI Player rolled a  3.
+Human Player is moved back to block 10 of 24
+0,7,0,0,0,0,5,0,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -11
+Parent Take Player Give Max Value: -11
+Parent Give Player Take Max Value: -11
+Parent Take Player Give Max Value: -10
+AI Player rolled a  2.
+Human Player is moved back to block 11 of 24
+0,7,0,0,0,0,5,0,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -10
+Parent Give Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+AI Player rolled a  3.
+Human Player is moved back to block 10 of 24
+0,7,0,0,0,0,5,0,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -12
+Parent Take Player Give Max Value: -12
+Parent Give Player Take Max Value: -12
+Parent Take Player Give Max Value: -11
+AI Player rolled a  1.
+Human Player is moved back to block 12 of 24
+0,7,0,0,0,0,5,0,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -10
+Parent Give Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+AI Player rolled a  3.
+Human Player is moved back to block 10 of 24
+0,7,0,0,0,0,5,0,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -11
+Parent Take Player Give Max Value: -11
+Parent Give Player Take Max Value: -11
+Parent Take Player Give Max Value: -10
+AI Player rolled a  2.
+Human Player is moved back to block 11 of 24
+0,7,0,0,0,0,5,0,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  4.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -10
+Parent Give Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+AI Player rolled a  3.
+Human Player is moved back to block 10 of 24
+0,7,0,0,0,0,5,0,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 14 of 24
+Parent Take Player Take Max Value: -13
+Parent Take Player Give Max Value: -13
+Parent Give Player Take Max Value: -13
+Parent Take Player Give Max Value: -12
+AI Player rolled a  1.
+Human Player is moved back to block 13 of 24
+0,7,0,0,0,0,5,0,0,0,0,0,5,3,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 14 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -10
+Parent Give Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+AI Player rolled a  4.
+Human Player is moved back to block 10 of 24
+0,7,0,0,0,0,5,0,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 14 of 24
+Parent Take Player Take Max Value: -13
+Parent Take Player Give Max Value: -13
+Parent Give Player Take Max Value: -13
+Parent Take Player Give Max Value: -12
+AI Player rolled a  1.
+Human Player is moved back to block 13 of 24
+0,7,0,0,0,0,5,0,0,0,0,0,5,3,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 14 of 24
+Parent Take Player Take Max Value: -11
+Parent Take Player Give Max Value: -11
+Parent Give Player Take Max Value: -11
+Parent Take Player Give Max Value: -10
+AI Player rolled a  3.
+Human Player is moved back to block 11 of 24
+0,7,0,0,0,0,5,0,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -11
+Parent Take Player Give Max Value: -11
+Parent Give Player Take Max Value: -11
+Parent Take Player Give Max Value: -10
+AI Player rolled a  2.
+Human Player is moved back to block 11 of 24
+0,7,0,0,0,0,5,0,0,0,0,3,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  4.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -8
+Parent Take Player Give Max Value: -7
+AI Player rolled a  3.
+Human Player is moved back to block 8 of 24
+0,7,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -8
+Parent Take Player Give Max Value: -7
+Parent Give Player Take Max Value: -7
+Parent Take Player Give Max Value: -6
+AI Player rolled a  4.
+Human Player is moved back to block 7 of 24
+0,7,0,0,0,0,5,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -11
+Parent Take Player Give Max Value: -10
+Parent Give Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+AI Player rolled a  1.
+Human Player is moved back to block 10 of 24
+0,7,0,0,0,0,5,0,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,7,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -8
+Parent Take Player Give Max Value: -7
+AI Player rolled a  3.
+Human Player is moved back to block 8 of 24
+0,7,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -9
+Parent Take Player Give Max Value: -8
+Parent Give Player Take Max Value: -8
+Parent Take Player Give Max Value: -7
+AI Player rolled a  3.
+Human Player is moved back to block 8 of 24
+0,7,0,0,0,0,5,0,3,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 10 of 24
+Parent Take Player Take Max Value: -6
+Parent Take Player Give Max Value: -6
+Parent Give Player Take Max Value: -6
+Parent Take Player Give Max Value: -5
+AI Player rolled a  4.
+Human Player is moved back to block 6 of 24
+0,7,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 7 of 24
+Parent Take Player Take Max Value: -4
+Parent Take Player Give Max Value: -4
+Parent Give Player Take Max Value: -4
+Parent Take Player Give Max Value: -3
+AI Player rolled a  3.
+Human Player is moved back to block 4 of 24
+0,7,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 7 of 24
+Parent Take Player Take Max Value: -3
+Parent Take Player Give Max Value: -3
+Parent Give Player Take Max Value: -3
+Parent Take Player Give Max Value: -2
+AI Player rolled a  4.
+Human Player is moved back to block 3 of 24
+0,7,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 4 of 24
+Parent Take Player Take Max Value: -3
+Parent Take Player Give Max Value: -3
+Parent Give Player Take Max Value: -3
+Parent Take Player Give Max Value: -2
+AI Player rolled a  1.
+Human Player is moved back to block 3 of 24
+0,7,0,3,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 4 of 24
+Parent Take Player Take Max Value: 0
+Parent Take Player Give Max Value: 0
+Parent Give Player Take Max Value: -1
+Parent Take Player Give Max Value: 0
+AI Player rolled a  4.
+AI Player is moved forward to block 5 of 24
+0,1,0,0,3,7,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: -1
+Parent Take Player Give Max Value: -1
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: -1
+AI Player rolled a  3.
+AI Player is moved forward to block 8 of 24
+0,1,0,0,0,0,5,0,7,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -4
+Parent Take Player Give Max Value: -3
+Parent Give Player Take Max Value: -3
+Parent Take Player Give Max Value: -3
+AI Player rolled a  1.
+Human Player is moved back to block 10 of 24
+0,1,0,0,0,0,5,0,7,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -3
+Parent Take Player Give Max Value: -2
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: -2
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,1,0,0,0,0,5,0,7,3,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: -4
+Parent Take Player Give Max Value: -3
+Parent Give Player Take Max Value: -3
+Parent Take Player Give Max Value: -3
+AI Player rolled a  1.
+Human Player is moved back to block 10 of 24
+0,1,0,0,0,0,5,0,7,0,3,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: 4
+Parent Take Player Give Max Value: 4
+Parent Give Player Take Max Value: 0
+Parent Take Player Give Max Value: 0
+AI Player rolled a  4.
+AI Player is moved forward to block 12 of 24
+0,1,0,0,0,0,5,3,0,0,0,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: 0
+Parent Take Player Give Max Value: 1
+Parent Give Player Take Max Value: 1
+Parent Take Player Give Max Value: 1
+AI Player rolled a  1.
+Human Player is moved back to block 10 of 24
+0,1,0,0,0,0,5,0,0,0,3,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: 1
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,1,0,0,0,0,5,0,0,3,0,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: 3
+Parent Take Player Give Max Value: 4
+Parent Give Player Take Max Value: 4
+Parent Take Player Give Max Value: 4
+AI Player rolled a  4.
+Human Player is moved back to block 7 of 24
+0,1,0,0,0,0,5,3,0,0,0,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 11 of 24
+Parent Take Player Take Max Value: 1
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+AI Player rolled a  2.
+Human Player is moved back to block 9 of 24
+0,1,0,0,0,0,5,0,0,3,0,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 12 of 24
+Parent Take Player Take Max Value: -2
+Parent Take Player Give Max Value: -2
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: -2
+AI Player rolled a  2.
+AI Player is moved forward to block 11 of 24
+0,1,0,0,0,0,5,0,0,0,0,7,3,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: -1
+Parent Take Player Give Max Value: -1
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: -2
+AI Player rolled a  1.
+AI Player is moved forward to block 12 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 16 of 24
+Parent Take Player Take Max Value: -3
+Parent Take Player Give Max Value: -3
+Parent Give Player Take Max Value: -3
+Parent Take Player Give Max Value: -3
+AI Player rolled a  2.
+AI Player is moved forward to block 14 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,7,0,3,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 17 of 24
+Parent Take Player Take Max Value: -3
+Parent Take Player Give Max Value: -2
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: -2
+AI Player rolled a  2.
+Human Player is moved back to block 15 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,7,3,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 19 of 24
+Parent Take Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: -2
+AI Player rolled a  4.
+AI Player is moved forward to block 18 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,3,0,0,7,0,0,0,0,9,9
+Human Player is moved forward to block 19 of 24
+Parent Take Player Take Max Value: 18
+Parent Take Player Give Max Value: -1
+Parent Give Player Take Max Value: -1
+Parent Take Player Give Max Value: -1
+AI Player rolled a  1.
+AI Player is moved forward to block 19 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,7,0,0,0,9,9
+Human Player is moved forward to block 1 of 24
+Parent Take Player Take Max Value: -1
+Parent Take Player Give Max Value: 0
+Parent Give Player Take Max Value: 17
+Parent Take Player Give Max Value: 17
+AI Player rolled a  4.
+Human Player is moved back to block 1 of 24
+0,3,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,7,0,0,0,9,9
+Human Player is moved forward to block 4 of 24
+Parent Take Player Take Max Value: 15
+Parent Take Player Give Max Value: 15
+Parent Give Player Take Max Value: 15
+Parent Take Player Give Max Value: 15
+AI Player rolled a  1.
+AI Player is moved forward to block 20 of 24
+0,1,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,7,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Parent Take Player Take Max Value: 14
+Parent Take Player Give Max Value: 15
+Parent Give Player Take Max Value: 15
+Parent Take Player Give Max Value: 15
+AI Player rolled a  1.
+Human Player is moved back to block 4 of 24
+0,1,0,0,3,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,7,0,0,9,9
+Human Player is moved forward to block 6 of 24
+Parent Take Player Take Max Value: 15
+Parent Take Player Give Max Value: 15
+Parent Give Player Take Max Value: 15
+Parent Take Player Give Max Value: 15
+AI Player rolled a  4.
+AI Player is moved forward to block 22 of 24
+0,1,0,0,0,0,3,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player is moved forward to block 10 of 24
+Parent Take Player Take Max Value: -10
+Parent Take Player Give Max Value: -9
+Parent Give Player Take Max Value: 12
+Parent Take Player Give Max Value: 12
+AI Player rolled a  1.
+Human Player is moved back to block 9 of 24
+0,1,0,0,0,0,5,0,0,3,0,0,5,0,0,0,0,0,5,0,0,0,7,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: 11
+Parent Take Player Give Max Value: 11
+Parent Give Player Take Max Value: 11
+Parent Take Player Give Max Value: 11
+AI Player rolled a  3.
+AI Player wins the contest on the 79 move.
+AI Player is moved forward to block 25 of 24
+
+*******************Test Two************************
+
+
+7,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 2 of 24
+Parent Take Player Take Max Value: 0
+Parent Take Player Give Max Value: 0
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: 0
+AI Player rolled a  3.
+AI Player is moved forward to block 3 of 24
+0,1,3,7,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Parent Take Player Take Max Value: 0
+Parent Take Player Give Max Value: 1
+Parent Give Player Take Max Value: 1
+Parent Take Player Give Max Value: 1
+AI Player rolled a  4.
+Human Player is moved back to block 1 of 24
+0,3,0,7,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Parent Take Player Take Max Value: -2
+Parent Take Player Give Max Value: -1
+Parent Give Player Take Max Value: -1
+Parent Take Player Give Max Value: -1
+AI Player rolled a  2.
+Human Player is moved back to block 3 of 24
+0,1,0,7,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Parent Take Player Take Max Value: -3
+Parent Take Player Give Max Value: -2
+Parent Give Player Take Max Value: -2
+Parent Take Player Give Max Value: -2
+AI Player rolled a  1.
+Human Player is moved back to block 4 of 24
+0,1,0,7,3,0,5,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Parent Take Player Take Max Value: 3
+Parent Take Player Give Max Value: 3
+Parent Give Player Take Max Value: 0
+Parent Take Player Give Max Value: 0
+AI Player rolled a  3.
+AI Player is moved forward to block 6 of 24
+0,1,3,0,0,0,7,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Parent Take Player Take Max Value: 1
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+AI Player rolled a  2.
+Human Player is moved back to block 3 of 24
+0,1,0,3,0,0,7,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 5 of 24
+Parent Take Player Take Max Value: 1
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+AI Player rolled a  2.
+Human Player is moved back to block 3 of 24
+0,1,0,3,0,0,7,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 4 of 24
+Parent Take Player Take Max Value: 4
+Parent Take Player Give Max Value: 4
+Parent Give Player Take Max Value: 4
+Parent Take Player Give Max Value: 4
+AI Player rolled a  3.
+AI Player is moved forward to block 9 of 24
+0,1,0,0,3,0,5,0,0,7,0,0,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 8 of 24
+Parent Take Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+AI Player rolled a  2.
+AI Player is moved forward to block 11 of 24
+0,1,0,0,0,0,5,0,3,0,0,7,5,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 10 of 24
+Parent Take Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: 1
+Parent Take Player Give Max Value: 1
+AI Player rolled a  1.
+AI Player is moved forward to block 12 of 24
+0,1,0,0,0,0,5,0,0,3,0,0,7,0,0,0,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 10 of 24
+Parent Take Player Take Max Value: 4
+Parent Take Player Give Max Value: 4
+Parent Give Player Take Max Value: 4
+Parent Take Player Give Max Value: 4
+AI Player rolled a  3.
+AI Player is moved forward to block 15 of 24
+0,1,0,0,0,0,5,0,0,0,3,0,5,0,0,7,0,0,5,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: 7
+Parent Take Player Give Max Value: 7
+Parent Give Player Take Max Value: 4
+Parent Take Player Give Max Value: 4
+AI Player rolled a  3.
+AI Player is moved forward to block 18 of 24
+0,1,0,0,0,0,5,0,0,0,3,0,5,0,0,0,0,0,7,0,0,0,0,9,9
+Human Player is moved forward to block 13 of 24
+Parent Take Player Take Max Value: 7
+Parent Take Player Give Max Value: 7
+Parent Give Player Take Max Value: 7
+Parent Take Player Give Max Value: 7
+AI Player rolled a  3.
+AI Player is moved forward to block 21 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,3,0,0,0,0,5,0,0,7,0,9,9
+Human Player is moved forward to block 16 of 24
+Parent Take Player Take Max Value: 5
+Parent Take Player Give Max Value: 5
+Parent Give Player Take Max Value: 5
+Parent Take Player Give Max Value: 5
+AI Player rolled a  1.
+AI Player is moved forward to block 22 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,3,0,5,0,0,0,7,9,9
+Human Player is moved forward to block 18 of 24
+Parent Take Player Take Max Value: 3
+Parent Take Player Give Max Value: 3
+Parent Give Player Take Max Value: 3
+Parent Take Player Give Max Value: 3
+AI Player rolled a  2.
+AI Player is moved forward to block 22 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,3,0,0,0,7,9,9
+Human Player is moved forward to block 19 of 24
+Parent Take Player Take Max Value: 0
+Parent Take Player Give Max Value: -18
+Parent Give Player Take Max Value: 3
+Parent Take Player Give Max Value: 4
+AI Player rolled a  2.
+Human Player is moved back to block 17 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,3,5,0,0,0,7,9,9
+Human Player is moved forward to block 18 of 24
+Parent Take Player Take Max Value: -18
+Parent Take Player Give Max Value: -17
+Parent Give Player Take Max Value: 5
+Parent Take Player Give Max Value: 5
+AI Player rolled a  3.
+Human Player is moved back to block 15 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,3,0,0,5,0,0,7,0,9,9
+Human Player is moved forward to block 18 of 24
+Parent Take Player Take Max Value: 0
+Parent Take Player Give Max Value: 0
+Parent Give Player Take Max Value: -1
+Parent Take Player Give Max Value: 0
+AI Player rolled a  1.
+AI Player is moved forward to block 19 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,3,7,0,0,0,9,9
+Human Player is moved forward to block 19 of 24
+Parent Take Player Take Max Value: 20
+Parent Take Player Give Max Value: 1
+Parent Give Player Take Max Value: 0
+Parent Take Player Give Max Value: 1
+AI Player rolled a  2.
+AI Player is moved forward to block 21 of 24
+0,1,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,0,5,3,0,7,0,9,9
+Human Player is moved forward to block 22 of 24
+Parent Take Player Take Max Value: 24
+Parent Take Player Give Max Value: 2
+Parent Give Player Take Max Value: 2
+Parent Take Player Give Max Value: 2
+AI Player rolled a  4.
+AI Player wins the contest on the 20 move.
+AI Player is moved forward to block 25 of 24
